@@ -21,9 +21,9 @@ body{
     padding-left: 40px;
     border-radius: 20px;
 }
-#ampm{
-    color: rgb(212, 97, 35);
-    font-size: 50px;
-    margin-top: 20px;
+    #ampm {
+        color: rgb(235 37 37);
+        font-size: 36px;
+        margin-top: 36px;
+    }
    
-}
