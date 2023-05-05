@@ -8,6 +8,14 @@ This is a digital clock app which shows live time according to the time of your 
   - CSS - Cascadeing Spread Sheet
   - JS - Java Script
 
+## 🚀[Live link](digital-clock-po7.netlify.app)
+
+## 🚀[Source Code](https://github.com/RaviTesla1/Digital-Clock)
+
+
+## 🚩Demo :
+![](./zingy-hotteok-2c8763.netlify.app_.png)
+
 
 
 
